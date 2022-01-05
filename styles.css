@@ -1,0 +1,71 @@
+img {
+  width: 280px;
+  height: 320px;
+}
+
+.img1 {
+  width: 960px;
+  height:190px;
+}
+
+.img2 {
+  width:310px;
+}
+
+.img3 {
+  width:310px;
+}
+
+.img4 {
+  width:310px;
+}
+
+.arroz {
+  font-size: 30px;
+  font-family:sans-serif;
+  width: 355px;
+  float:right;
+  margin:-377px 1px;
+  background: d1ccc0;
+}
+
+.articulo {
+  font-size: 35px;
+  font-family:sans-serif;
+  width:600px;
+  background: bdc3c7
+}
+
+.encabezado {
+  font-size: 25px;
+  margin:5px;
+  background: bdc3c7;
+}
+
+.pie {
+  font-size: 15px;
+}
+
+div {
+  width: 960px;
+  background: bdc3c7;
+  background-image: url("Images/Gato gris.jpg")
+}
+
+header,article,section {
+  display:block;
+}
+
+#p2 {
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+#musica {
+  float:right;
+margin-top:-117px;
+margin-right:375px;
+}
